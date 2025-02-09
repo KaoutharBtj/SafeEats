@@ -1,6 +1,6 @@
-# Allergy Alert
+# SafeEats
 ## Overview 
-"Allergy Alert" is a web application designed to help users determine whether a food product is safe for consumption based on their declared allergies. Users can specify their allergies, upload an image of the product's ingredients, and the system will analyze the ingredients to provide an alert if any allergens are detected.
+"SafeEats" is a web application designed to help users determine whether a food product is safe for consumption based on their declared allergies. Users can specify their allergies, upload an image of the product's ingredients, and the system will analyze the ingredients to provide an alert if any allergens are detected.
 ![Logo](https://github.com/yassineerrakkas/Allergy-Alert/assets/118397882/483658c1-e65c-4c4c-a446-5644743c30a9)
 ## Table of contents
 * [Team members](#team-members)
@@ -14,7 +14,7 @@
   * [Usage](#usage)
   
 ## Team members 
-The "Allergy Alert" project is a collaborative effort undertaken by a dynamic team of data engineering students:
+The "SafeEats" project is a collaborative effort undertaken by a dynamic team of data engineering students:
 - [BENABDELLAH Noha](https://github.com/nohabenabdellah)
 - [Kaouthar Boutjanouite](https://github.com/KaoutharBtj)
 - [ERRAKKAS Yassine](https://github.com/yassineerrakkas)
