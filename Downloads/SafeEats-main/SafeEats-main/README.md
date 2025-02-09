@@ -16,7 +16,7 @@
 ## Team members 
 The "Allergy Alert" project is a collaborative effort undertaken by a dynamic team of data engineering students:
 - [BENABDELLAH Noha](https://github.com/nohabenabdellah)
-- [BENSALIM Kaoutar](https://github.com/BENSALIMKaoutar)
+- [Kaouthar Boutjanouite](https://github.com/KaoutharBtj)
 - [ERRAKKAS Yassine](https://github.com/yassineerrakkas)
 ## Technologies Used 
 
